@@ -1,0 +1,16 @@
+inscricao,distrito,bairro,valor_transacao,area_m2,data_transacao,tipo_imovel,lat,lon
+ITBI-1001,Vila Madalena,Vila Madalena,1600000,175,2024-03-12,casa,-23.5470,-46.6905
+ITBI-1002,Vila Madalena,Vila Madalena,1550000,170,2024-06-01,casa,-23.5460,-46.6920
+ITBI-1003,Pinheiros,Pinheiros,980000,70,2024-02-20,apartamento,-23.5665,-46.6850
+ITBI-1004,Pinheiros,Pinheiros,1050000,75,2024-08-15,apartamento,-23.5658,-46.6840
+ITBI-1005,Consolação,Consolação,720000,50,2024-01-10,apartamento,-23.5540,-46.6600
+ITBI-1006,Consolação,Consolação,680000,48,2024-05-22,apartamento,-23.5535,-46.6610
+ITBI-1007,Brooklin,Brooklin,2300000,210,2024-04-03,casa,-23.6110,-46.6880
+ITBI-1008,Brooklin,Brooklin,1900000,135,2024-07-18,apartamento,-23.6140,-46.6825
+ITBI-1009,Perdizes,Perdizes,1750000,195,2024-03-28,sobrado,-23.5385,-46.6750
+ITBI-1010,Vila Mariana,Vila Mariana,1350000,155,2024-09-05,sobrado,-23.5890,-46.6350
+ITBI-1011,Vila Mariana,Vila Mariana,1280000,150,2024-10-01,sobrado,-23.5900,-46.6340
+ITBI-1012,Saúde,Saúde,920000,115,2024-02-14,casa,-23.6165,-46.6390
+ITBI-1013,Tatuapé,Tatuapé,1250000,140,2024-06-20,casa,-23.5410,-46.5760
+ITBI-1014,Moema,Moema,2100000,95,2024-08-01,apartamento,-23.6035,-46.6630
+ITBI-1015,Santana,Santana,890000,120,2024-03-15,casa,-23.5030,-46.6260

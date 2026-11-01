@@ -1,0 +1,13 @@
+[
+  {"nome": "Mercado Pinheiros", "categoria": "comercio", "lat": -23.5660, "lon": -46.6858},
+  {"nome": "Padaria Vila Madalena", "categoria": "comercio", "lat": -23.5469, "lon": -46.6915},
+  {"nome": "Farmácia Consolação", "categoria": "comercio", "lat": -23.5545, "lon": -46.6608},
+  {"nome": "Shopping Brooklin", "categoria": "comercio", "lat": -23.6130, "lon": -46.6885},
+  {"nome": "Parque Villa-Lobos", "categoria": "parque", "lat": -23.5460, "lon": -46.7200},
+  {"nome": "Parque Ibirapuera", "categoria": "parque", "lat": -23.5874, "lon": -46.6576},
+  {"nome": "Praça Buenos Aires", "categoria": "parque", "lat": -23.5455, "lon": -46.6620},
+  {"nome": "EMEF Vila Madalena", "categoria": "escola", "lat": -23.5475, "lon": -46.6895},
+  {"nome": "Colégio Pinheiros", "categoria": "escola", "lat": -23.5670, "lon": -46.6860},
+  {"nome": "Escola Consolação", "categoria": "escola", "lat": -23.5550, "lon": -46.6615},
+  {"nome": "EMEF Vila Mariana", "categoria": "escola", "lat": -23.5905, "lon": -46.6355}
+]

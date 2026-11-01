@@ -1,0 +1,21 @@
+services:
+  db:
+    image: postgis/postgis:16-3.4
+    container_name: mobi-sp-db
+    environment:
+      POSTGRES_USER: mobi
+      POSTGRES_PASSWORD: mobi
+      POSTGRES_DB: mobi_sp
+    ports:
+      - "5432:5432"
+    volumes:
+      - mobi_sp_pgdata:/var/lib/postgresql/data
+      - ./schema.sql:/docker-entrypoint-initdb.d/01-schema.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U mobi -d mobi_sp"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  mobi_sp_pgdata:

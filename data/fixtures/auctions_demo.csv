@@ -1,0 +1,4 @@
+id_externo,titulo,tipo_imovel,distrito,bairro,endereco,preco_leilao,area_m2,quartos,vagas,lat,lon,url
+lei-001,Leilão Caixa — Apartamento Consolação,apartamento,Consolação,Consolação,Rua Augusta 1500,380000,52,2,1,-23.5550,-46.6590,https://example.com/lei-001
+lei-002,Leilão — Sobrado Vila Mariana,sobrado,Vila Mariana,Vila Mariana,Rua Vergueiro 3000,650000,140,3,1,-23.5910,-46.6360,https://example.com/lei-002
+lei-003,Leilão — Casa Saúde,casa,Saúde,Saúde,Rua Santa Cruz 100,480000,100,2,1,-23.6170,-46.6400,https://example.com/lei-003
